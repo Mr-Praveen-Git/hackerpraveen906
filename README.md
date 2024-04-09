@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hackerpraveen906
+- 👋 Hi, I’m @praveen_10k
 - 👀 I’m interested in hacking 
 - 🌱 I’m currently pursuing in B.Tech CSE
 - 💞️ I like hacking 💞️
